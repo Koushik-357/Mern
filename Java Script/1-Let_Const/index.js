@@ -119,4 +119,3 @@ const x;  // Error! Missing initializer in const declaration.
 x = 5;
 console.log(x)
 // Note: If you are sure that the value of a variable won't change throughout the program, it's recommended to use const. However, there are a few browsers that do not support const.
-
